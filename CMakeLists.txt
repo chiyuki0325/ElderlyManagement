@@ -15,6 +15,8 @@ ui.c
 ui.h
 menu.c
 menu.h
+members.c
+members.h
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})
