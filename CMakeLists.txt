@@ -7,6 +7,8 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 
 set(SOURCES
 main.c
+ui.c
+ui.h
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})
