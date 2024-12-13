@@ -22,3 +22,7 @@ cmake .. -G"CodeBlocks - MinGW Makefiles"
 ```
 
 之后即可生成 Code::Blocks 的工程文件。
+
+---
+
+由于一些隐私问题，大部分提交记录和代码中的作者姓名已被移除。
